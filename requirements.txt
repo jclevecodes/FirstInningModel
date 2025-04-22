@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+fastapi
+uvicorn
+sqlalchemy
+requests
+python-dotenv
+apache-airflow==2.10.5
